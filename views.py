@@ -5,3 +5,7 @@ print("This is fourth line")
 
 
 print("this is line in second commit")
+
+
+
+print("this is line in thrid commit")
